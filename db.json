@@ -184,6 +184,19 @@
       "utilisateur": "Hugo Block",
       "commentaire": "Sint quidem quia ipsam quae.",
       "nbEtoiles": 5
+    },
+    {
+      "pieceId": 1,
+      "utilisateur": "Zambio",
+      "commentaire": "Ampoule economique",
+      "id": 21
+    },
+    {
+      "pieceId": 2,
+      "utilisateur": "Zambio",
+      "commentaire": "Durable",
+      "nbEtoiles": 4,
+      "id": 22
     }
   ]
 }
