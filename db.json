@@ -197,6 +197,13 @@
       "commentaire": "Durable",
       "nbEtoiles": 4,
       "id": 22
+    },
+    {
+      "pieceId": 3,
+      "utilisateur": "Zambio",
+      "commentaire": "Ampoule boite a gants",
+      "nbEtoiles": 3,
+      "id": 23
     }
   ]
 }
